@@ -21,6 +21,14 @@ This is a functioning MVP v1.0.
 
 Please notice the makeEventCards function. The event cards are hand-crafted html using jQuery rather than iframes, cards, or any other pre-built style element. This allows for much faster rendering and a better user experience. This functionality was a collaboration between myself and <a href="https://github.com/seangnewman">@seangnewman</a>.
 
+Commercial authored by me using:
+<ul>
+  <li>Audacity</li>
+  <li>GIMP</li>
+  <li>OpenShot</li>
+  <li>Free ScreenRecorder 8.2</li>
+</ul>
+Music: Bright Wish by Kevin MacLeod 2007
 
 Additional functionality planned for future development
 <ul>
